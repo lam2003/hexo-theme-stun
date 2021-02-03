@@ -229,7 +229,7 @@ footer:
   beian:
     enable: true
     # 备案 XXXXXXXX 号
-    icp: "粤ICP备20016116号"
+    icp: '<a href="https://beian.miit.gov.cn/">粤ICP备20016116号</a>'
   # Any custom text (e.g. Hosted by <a href="https://pages.github.com/" rel="noopener" target="_blank">Github Pages</a>)
   custom:
     enable: false
