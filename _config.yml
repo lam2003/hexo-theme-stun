@@ -52,8 +52,8 @@ sougou_site_verification:
 menu:
   home: / || fas fa-home
   archives: /archives/ || fas fa-folder-open
-  # categories: /categories/ || fas fa-layer-group
-  # tags: /tags/ || fas fa-tags
+  categories: /categories/ || fas fa-layer-group
+  tags: /tags/ || fas fa-tags
   # You can add a secondary menu like follow.
   # xxx1: javascript:; || fa(s|r|l|d|b) fa-xxx
 
@@ -295,7 +295,7 @@ author:
     # Optional values: turn | shake
     animation: turn
   # Your favorite motto.
-  motto: hello world
+  motto: A Trash Coderr
 
 # Social links
 # Value before `||` is the target link, value after `||` is the name of FontAwesome icon.
